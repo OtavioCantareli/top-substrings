@@ -1,0 +1,1 @@
+My solution for the [substrings exercise](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/sub-strings) from [The Odin Project](https://www.theodinproject.com/).
